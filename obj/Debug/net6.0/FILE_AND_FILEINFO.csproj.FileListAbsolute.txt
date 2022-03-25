@@ -1,0 +1,15 @@
+C:\Users\eliza\Bootcamp DIO GFT Start #4\Arquivos e Streams C#\FILE_AND_FILEINFO\bin\Debug\net6.0\FILE_AND_FILEINFO.exe
+C:\Users\eliza\Bootcamp DIO GFT Start #4\Arquivos e Streams C#\FILE_AND_FILEINFO\bin\Debug\net6.0\FILE_AND_FILEINFO.deps.json
+C:\Users\eliza\Bootcamp DIO GFT Start #4\Arquivos e Streams C#\FILE_AND_FILEINFO\bin\Debug\net6.0\FILE_AND_FILEINFO.runtimeconfig.json
+C:\Users\eliza\Bootcamp DIO GFT Start #4\Arquivos e Streams C#\FILE_AND_FILEINFO\bin\Debug\net6.0\FILE_AND_FILEINFO.dll
+C:\Users\eliza\Bootcamp DIO GFT Start #4\Arquivos e Streams C#\FILE_AND_FILEINFO\bin\Debug\net6.0\FILE_AND_FILEINFO.pdb
+C:\Users\eliza\Bootcamp DIO GFT Start #4\Arquivos e Streams C#\FILE_AND_FILEINFO\obj\Debug\net6.0\FILE_AND_FILEINFO.csproj.AssemblyReference.cache
+C:\Users\eliza\Bootcamp DIO GFT Start #4\Arquivos e Streams C#\FILE_AND_FILEINFO\obj\Debug\net6.0\FILE_AND_FILEINFO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliza\Bootcamp DIO GFT Start #4\Arquivos e Streams C#\FILE_AND_FILEINFO\obj\Debug\net6.0\FILE_AND_FILEINFO.AssemblyInfoInputs.cache
+C:\Users\eliza\Bootcamp DIO GFT Start #4\Arquivos e Streams C#\FILE_AND_FILEINFO\obj\Debug\net6.0\FILE_AND_FILEINFO.AssemblyInfo.cs
+C:\Users\eliza\Bootcamp DIO GFT Start #4\Arquivos e Streams C#\FILE_AND_FILEINFO\obj\Debug\net6.0\FILE_AND_FILEINFO.csproj.CoreCompileInputs.cache
+C:\Users\eliza\Bootcamp DIO GFT Start #4\Arquivos e Streams C#\FILE_AND_FILEINFO\obj\Debug\net6.0\FILE_AND_FILEINFO.dll
+C:\Users\eliza\Bootcamp DIO GFT Start #4\Arquivos e Streams C#\FILE_AND_FILEINFO\obj\Debug\net6.0\refint\FILE_AND_FILEINFO.dll
+C:\Users\eliza\Bootcamp DIO GFT Start #4\Arquivos e Streams C#\FILE_AND_FILEINFO\obj\Debug\net6.0\FILE_AND_FILEINFO.pdb
+C:\Users\eliza\Bootcamp DIO GFT Start #4\Arquivos e Streams C#\FILE_AND_FILEINFO\obj\Debug\net6.0\FILE_AND_FILEINFO.genruntimeconfig.cache
+C:\Users\eliza\Bootcamp DIO GFT Start #4\Arquivos e Streams C#\FILE_AND_FILEINFO\obj\Debug\net6.0\ref\FILE_AND_FILEINFO.dll
